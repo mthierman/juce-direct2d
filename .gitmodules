@@ -1,0 +1,3 @@
+[submodule "libs/JUCEDirect2DTest"]
+	path = libs/JUCEDirect2DTest
+	url = https://github.com/mattgonzalez/JUCEDirect2DTest.git
